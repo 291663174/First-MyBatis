@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-5.1.37-bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.37-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mybatis-3.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://G:/JAVAobjects/mybatis/mybatis-3-mybatis-3.5.4.zip!/mybatis-3-mybatis-3.5.4/.mvn/wrapper" />
+      <root url="jar://G:/JAVAobjects/mybatis/mybatis-3-mybatis-3.5.4.zip!/mybatis-3-mybatis-3.5.4/src/main/java" />
+      <root url="jar://G:/JAVAobjects/mybatis/mybatis-3-mybatis-3.5.4.zip!/mybatis-3-mybatis-3.5.4/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
