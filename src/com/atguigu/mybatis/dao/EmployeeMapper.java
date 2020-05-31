@@ -9,4 +9,10 @@ public interface EmployeeMapper {
     //  接口实现用mabatis
     public Employee getEmpById(Integer id);
 
+    public void addEmp(Employee employee);
+
+    public void updateEmp(Employee employee);  //public boolean updateEmp(Employee employee);
+
+    public void deleteEmpById(Integer id);
+
 }
